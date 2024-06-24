@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T08:48:45.080Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Y9zYxBJVh1KXkJPt4dCs" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T09:04:04.171Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="FITQlWjaiaERC9gVsSF3" version="24.6.2" type="github">
   <diagram name="Page-1" id="crh14yNIIX4ZS6QceRDh">
     <mxGraphModel dx="1700" dy="1730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -197,7 +197,7 @@
           <mxGeometry x="329" y="-650" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hOvp6tXlnZ2b6GhqetEw-61" value="Prometheus" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#858B94;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#858B94;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="-800" width="520" height="230" as="geometry" />
+          <mxGeometry x="290" y="-800" width="320" height="230" as="geometry" />
         </mxCell>
         <mxCell id="hOvp6tXlnZ2b6GhqetEw-62" value="cloudwatch_export" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#858B94;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#858B94;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="8.39" y="-800" width="169.61" height="230" as="geometry" />
